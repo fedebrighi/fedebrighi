@@ -2,7 +2,7 @@
 
 I'm a **Computer Engineering** student at **unibo**. I'm passionate about **programming**, **cybersecurity**, **AI**, and **computer graphics**. Currently, I'm diving deep into **AI models** and **diffusion techniques** for improving CGI. 🚀
 
-📬 Reach me: [federico@example.com](mailto:federico@example.com)
+📬 Reach me: [federicobrighi2003@gmail.com](mailto:federicobrighi2003@gmail.com)
 
 ## 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/federico)
