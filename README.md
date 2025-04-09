@@ -6,8 +6,8 @@ I'm a **Computer Engineering** student at **unibo**. I'm passionate about **prog
 
 ## 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/federico)
-- [Twitter](https://twitter.com/federico)
-- [Instagram](https://www.instagram.com/federico)
+- [Twitter](https://twitter.com/federicobrighi)
+- [Instagram](https://www.instagram.com/federico_brighi)
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
