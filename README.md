@@ -9,20 +9,28 @@ I'm a **Computer Engineering** student at **unibo**. I'm passionate about **prog
 - [Twitter](https://twitter.com/federicobrighi)
 - [Instagram](https://www.instagram.com/federico_brighi)
 
-## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+## 🛠️ Languages & Tools:
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-black?style=flat-square&logo=dotnet)
+![Blazor](https://img.shields.io/badge/Blazor-black?style=flat-square&logo=blazor)
+![MudBlazor](https://img.shields.io/badge/MudBlazor-black?style=flat-square&logo=blazor)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Gradle](https://img.shields.io/badge/Gradle-black?style=flat-square&logo=gradle)
+![LaTeX](https://img.shields.io/badge/LaTeX-black?style=flat-square&logo=latex)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fedebrighi&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-### 📈 Most Used Languages:
+## 📈 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedebrighi&layout=compact)
 
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=fedebrighi&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🚀 Projects:
-### [Project Name](link_to_project)
-A description of the project, the technologies used, and the link to the repository.
-
-![Project Screenshot](https://your-image-url.com)
+## 📅 GitHub Activity Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fedebrighi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true)
