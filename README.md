@@ -17,10 +17,10 @@ I'm a **Computer Engineering** student at **unibo**. I'm passionate about **prog
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fedebrigh&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📈 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedebrigh&layout=compact)
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=tuo-username&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fedebrighi&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
