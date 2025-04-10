@@ -1,4 +1,4 @@
-# Hello there! I'm Federico!👋
+# Hey! I'm Federico!👋
 I'm a **Computer Engineering** student at **University of Bologna (UniBo)**, currently diving deep into the world of **programming**, **artificial intelligence**, and **computer graphics**.<br><br>🌱 **Currently learning Symfony & Twig** for my internship, where I am developing web applications and honing my skills in **backend/frontend development**.<br><br>⚡ I'm **passionate about cinema**—especially **computer graphics** in films and **AI's role in enhancing CGI**. I believe in the intersection of technology and creativity to bring groundbreaking ideas to life.<br><br>🎬 **Aspirations**: I aim to blend my technical skills with my love for film and animation to create stunning visual experiences using **AI** and **CGI** technologies. <br>
 
 
