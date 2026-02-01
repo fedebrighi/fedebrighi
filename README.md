@@ -1,5 +1,35 @@
-# Hey! I'm Federico!👋
-I'm a **Computer Engineering** student at **University of Bologna (UniBo)**, currently diving deep into the world of **programming**, **artificial intelligence**, and **computer graphics**.<br><br>🌱 **Currently learning Symfony & Twig** for my internship, where I am developing web applications and honing my skills in **backend/frontend development**.<br><br>⚡ I'm **passionate about cinema**—especially **computer graphics** in films and **AI's role in enhancing CGI**. I believe in the intersection of technology and creativity to bring groundbreaking ideas to life.<br><br>🎬 **Aspirations**: I aim to blend my technical skills with my love for film and animation to create stunning visual experiences using **AI** and **CGI** technologies. <br>
+<h1>Hey! I'm Federico! 👋</h1>
+
+<p>
+  I’m a <strong>Computer Engineering graduate</strong> from the 
+  <strong>University of Bologna (UniBo)</strong>, with a <strong>final grade of 97/110</strong>, 
+  and I’m currently pursuing a <strong>Master’s Degree in Computer Engineering in Cesena</strong>. 🎓
+</p>
+
+<p>
+  💻 My main interests revolve around <strong>programming</strong>, 
+  <strong>artificial intelligence</strong>, and <strong>computer graphics</strong>, 
+  where I enjoy exploring both the technical and creative sides of technology.
+</p>
+
+<p>
+  🌱 I’ve recently <strong>completed my internship</strong>, during which I worked with 
+  <strong>Symfony &amp; Twig</strong>, developing web applications and strengthening my skills in 
+  <strong>backend and frontend development</strong>.
+</p>
+
+<p>
+  ⚡ I’m deeply <strong>passionate about cinema</strong>, especially 
+  <strong>computer graphics in films</strong> and the role of 
+  <strong>AI in enhancing CGI</strong>. I strongly believe in the intersection of 
+  technology and creativity to bring innovative ideas to life.
+</p>
+
+<p>
+  🎬 <strong>Aspirations</strong>: My goal is to merge my engineering background with my love 
+  for film and animation, creating immersive and visually stunning experiences through 
+  <strong>AI-driven CGI</strong>.
+</p>
 
 
 ## 🌐 Socials:
