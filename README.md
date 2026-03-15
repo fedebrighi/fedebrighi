@@ -2,8 +2,7 @@
 
 <p>
   I’m a <strong>Computer Engineering graduate</strong> from the 
-  <strong>University of Bologna (UniBo)</strong>, with a <strong>final grade of 97/110</strong>, 
-  and I’m currently pursuing a <strong>Master’s Degree in Computer Engineering in Cesena</strong>. 🎓
+  <strong>University of Bologna (UniBo)</strong>, and I’m currently pursuing a <strong>Master’s Degree in Computer Engineering in Cesena</strong>. 🎓
 </p>
 
 <p>
